@@ -1,0 +1,8 @@
+fastapi
+pycaret
+pycaret[models]
+pandas
+numpy
+uvicorn
+mangum
+scikit-learn
